@@ -1,5 +1,3 @@
-package com.enviro.assessment.grad001.amosmaganyane;
-
 public class MagicalPortion {
     public String isMagicalPotion(long power) {
         if (power <= 0) {
