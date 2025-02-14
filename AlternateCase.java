@@ -1,5 +1,3 @@
-package com.enviro.assessment.grad001.amosmaganyane;
-
 public class AlternateCase {
     public String alternateCase(String s) {
         char[] chars = s.toCharArray();
